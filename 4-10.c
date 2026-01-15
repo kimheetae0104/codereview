@@ -5,7 +5,7 @@ int main(void){
     int res = 2;
 
     a += 20;
-    res *=b + 10;
+    res *= b + 10;
 
     printf("a = %d, b = %d\n",a ,b);
     printf("res = %d\n",res);
