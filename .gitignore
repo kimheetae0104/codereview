@@ -1,0 +1,5 @@
+*.dSYM/
+*.dSYM
+/build/
+/output/
+.DS_Store
